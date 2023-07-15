@@ -1,6 +1,6 @@
 title: "Connectin Dots"
 author: "Tan"
-description: "Made with <b style=\"color: #f45;\">&lt;3</b>"
+description: "I write about a randomly chosen photo from my hard drive."
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
